@@ -1,0 +1,1 @@
+import{c as a,o as e,a2 as t}from"./chunks/framework.hGyLzAMC.js";const r=t("",7),o=[r],n=JSON.parse('{"title":"作业一","description":"","frontmatter":{},"headers":[],"relativePath":"markdown-examples.md","filePath":"markdown-examples.md"}'),_={name:"markdown-examples.md"},d=Object.assign(_,{setup(s){return(i,l)=>(e(),a("div",null,o))}});export{n as __pageData,d as default};
